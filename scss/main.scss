@@ -1,0 +1,27 @@
+// utils
+@import './utils/vars';
+@import './utils/visually-hidden';
+
+// base styles
+@import './base/common';
+@import './base/reset';
+@import './base/container';
+
+// componets
+@import './componets/logo';
+@import './componets/button';
+@import './componets/modal-form';
+@import './componets/socials';
+@import './componets/mail-form';
+
+// layouts
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/benefits';
+@import './layouts/works';
+@import './layouts/team';
+@import './layouts/clients';
+@import './layouts/footer';
+@import './layouts/projects';
+
+
